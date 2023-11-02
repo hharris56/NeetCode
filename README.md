@@ -1,2 +1,2 @@
 # NeetCode
-LeetCode exercises outlined by the amazing NeetCode tool
+LeetCode exercises outlined by the amazing [NeetCode](https://neetcode.io/) tool.
