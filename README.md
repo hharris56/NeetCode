@@ -11,19 +11,19 @@ Each Unit will have it's own associated markdown files discussing solution appro
 - complete entire curriculum by September 2024
 
 ### Core Units:
-| Unit              | Duration  | Month |
-| ----------------- | :-------: | ----: |
-| Arrays & Hasshing | 1 week    | 1     |
-| Two Pointers      | 1 week    | 1     |
-| Sliding Window    | 1 week    | 1     |
-| Binary Search     | 1 week    | 1     |
-| Linked List       | 1 week    | 2     |
-| Trees             | 2 weeks   | 2     |
-| Tries             | 1/2 week  | 2     |
-| Heap & Queue      | 1/2 week  | 2     |
-| Backtracking      | 1 week    | 3     |
-| Graphs            | 2 weeks   | 3     |
-| Advanced Graphs   | 1 week    | 3     |
+| Unit              | Duration  | Due Date  |
+| ----------------- | :-------: | ----:     |
+| Arrays & Hashing  | 1 week    | 3/10      |
+| Two Pointers      | 1 week    | 3/17      |
+| Sliding Window    | 1 week    | 3/24      |
+| Binary Search     | 1 week    | 3/31      |
+| Linked List       | 1 week    | 4/7       |
+| Trees             | 2 weeks   | 4/21      |
+| Tries             | 1/2 week  | 4/28      |
+| Heap & Queue      | 1/2 week  | 4/28      |
+| Backtracking      | 1 week    | 5/5       |
+| Graphs            | 2 weeks   | 5/19      |
+| Advanced Graphs   | 1 week    | 5/26      |
 
 
 ### Extra Units:
